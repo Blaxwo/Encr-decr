@@ -1,2 +1,2 @@
 # Encr-decr
-Some encr-decr algorithms
+DES - Symmetric encryption algorithms (DES)
